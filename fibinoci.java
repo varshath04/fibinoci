@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fibonaci {
+public class fibinaci {
     
     // Function to generate Fibonacci sequence up to n terms
     public static void generateFibonacci(int n) {
